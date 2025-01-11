@@ -42,3 +42,5 @@ city VARCHAR(20),
 age INT,
 PRIMARY KEY (id,name)
 );
+
+Select marks from Temp1;
